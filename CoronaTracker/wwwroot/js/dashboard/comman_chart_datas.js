@@ -4,7 +4,7 @@ Chart.defaults.global.defaultFontFamily = "Lato";
 Chart.defaults.global.defaultFontSize = 18;
 
 $.ajax({
-    url: '/Dashboard/GetRawDataByCountryId/1',
+    url: '/Dashboard/GetRawDataByCountryId/1', // id = 1 is for Turkey and hardcoded for now
     dataType: "json",
     type: "GET",
     error: function (xhr, status, error) {
