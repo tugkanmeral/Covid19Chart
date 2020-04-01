@@ -1,0 +1,54 @@
+﻿@model DashboardIndex
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="chart-container">
+    <canvas id="raw_chart"></canvas>
+</div>
+<hr />
+<div class="chart-container">
+    <canvas id="daily_chart"></canvas>
+</div>
+<hr />
+<div class="chart-container">
+    <canvas id="case_test_chart"></canvas>
+</div>
+<hr />
+
+<div class="table-responsive">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Tarih</th>
+                <th scope="col">Vaka</th>
+                <th scope="col">Ölüm</th>
+                <th scope="col">İyileşme</th>
+                <th scope="col">Günlük Test</th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < Model.DailyDatas.Count; i++)
+            {
+                <tr>
+                    <th scope="row">@(i + 1)</th>
+                    <td>@Model.DailyDatas[i].Date.Year/@Model.DailyDatas[i].Date.Month/@Model.DailyDatas[i].Date.Day</td>
+                    <td>@Model.DailyDatas[i].Case</td>
+                    <td>@Model.DailyDatas[i].Death</td>
+                    <td>@Model.DailyDatas[i].Recovered</td>
+                    <td>@Model.DailyDatas[i].TestAmount</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<p class="text-muted">Görüntülenen tüm datalar <a href="https://corona.cbddo.gov.tr/Home/History">Türkiye Cumhuriyeti Cumhurbaşkanlığı Dijital Dönüşüm Ofisi</a> ve <a href="https://twitter.com/drfahrettinkoca">Dr. Fahrettin Koca</a>'nın resmi Twitter hesabından alınmıştır.</p>
+
+<script src="~/lib/Chart.js/Chart.js"></script>
+<script src="~/js/dashboard/comman_chart_datas.js"></script>
+<script src="~/js/dashboard/raw_chart.js"></script>
+<script src="~/js/dashboard/daily_chart.js"></script>
+<script src="~/js/dashboard/case_test_chart.js"></script>

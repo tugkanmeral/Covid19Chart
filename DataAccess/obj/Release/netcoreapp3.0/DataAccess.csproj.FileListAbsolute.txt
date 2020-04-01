@@ -1,0 +1,13 @@
+C:\Users\Tugkan\Desktop\CoronaTracker\DataAccess\bin\Release\netcoreapp3.0\DataAccess.deps.json
+C:\Users\Tugkan\Desktop\CoronaTracker\DataAccess\bin\Release\netcoreapp3.0\DataAccess.dll
+C:\Users\Tugkan\Desktop\CoronaTracker\DataAccess\bin\Release\netcoreapp3.0\DataAccess.pdb
+C:\Users\Tugkan\Desktop\CoronaTracker\DataAccess\bin\Release\netcoreapp3.0\Core.dll
+C:\Users\Tugkan\Desktop\CoronaTracker\DataAccess\bin\Release\netcoreapp3.0\Entities.dll
+C:\Users\Tugkan\Desktop\CoronaTracker\DataAccess\bin\Release\netcoreapp3.0\Entities.pdb
+C:\Users\Tugkan\Desktop\CoronaTracker\DataAccess\bin\Release\netcoreapp3.0\Core.pdb
+C:\Users\Tugkan\Desktop\CoronaTracker\DataAccess\obj\Release\netcoreapp3.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\Tugkan\Desktop\CoronaTracker\DataAccess\obj\Release\netcoreapp3.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Tugkan\Desktop\CoronaTracker\DataAccess\obj\Release\netcoreapp3.0\DataAccess.AssemblyInfo.cs
+C:\Users\Tugkan\Desktop\CoronaTracker\DataAccess\obj\Release\netcoreapp3.0\DataAccess.csproj.CopyComplete
+C:\Users\Tugkan\Desktop\CoronaTracker\DataAccess\obj\Release\netcoreapp3.0\DataAccess.dll
+C:\Users\Tugkan\Desktop\CoronaTracker\DataAccess\obj\Release\netcoreapp3.0\DataAccess.pdb

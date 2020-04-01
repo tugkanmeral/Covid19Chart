@@ -1,0 +1,26 @@
+C:\Users\Tugkan\Development\AspNetCore\OnePassForAll\ASP.NET Core REST API\DataAccess\bin\Release\netcoreapp3.1\DataAccess.deps.json
+C:\Users\Tugkan\Development\AspNetCore\OnePassForAll\ASP.NET Core REST API\DataAccess\bin\Release\netcoreapp3.1\DataAccess.dll
+C:\Users\Tugkan\Development\AspNetCore\OnePassForAll\ASP.NET Core REST API\DataAccess\bin\Release\netcoreapp3.1\DataAccess.pdb
+C:\Users\Tugkan\Development\AspNetCore\OnePassForAll\ASP.NET Core REST API\DataAccess\bin\Release\netcoreapp3.1\Core.dll
+C:\Users\Tugkan\Development\AspNetCore\OnePassForAll\ASP.NET Core REST API\DataAccess\bin\Release\netcoreapp3.1\Entities.dll
+C:\Users\Tugkan\Development\AspNetCore\OnePassForAll\ASP.NET Core REST API\DataAccess\bin\Release\netcoreapp3.1\Entities.pdb
+C:\Users\Tugkan\Development\AspNetCore\OnePassForAll\ASP.NET Core REST API\DataAccess\bin\Release\netcoreapp3.1\Core.pdb
+C:\Users\Tugkan\Development\AspNetCore\OnePassForAll\ASP.NET Core REST API\DataAccess\obj\Release\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\Tugkan\Development\AspNetCore\OnePassForAll\ASP.NET Core REST API\DataAccess\obj\Release\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Tugkan\Development\AspNetCore\OnePassForAll\ASP.NET Core REST API\DataAccess\obj\Release\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\Tugkan\Development\AspNetCore\OnePassForAll\ASP.NET Core REST API\DataAccess\obj\Release\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\Tugkan\Development\AspNetCore\OnePassForAll\ASP.NET Core REST API\DataAccess\obj\Release\netcoreapp3.1\DataAccess.dll
+C:\Users\Tugkan\Development\AspNetCore\OnePassForAll\ASP.NET Core REST API\DataAccess\obj\Release\netcoreapp3.1\DataAccess.pdb
+C:\Users\Tugkan\Desktop\CoronaTracker\DataAccess\bin\Release\netcoreapp3.1\DataAccess.deps.json
+C:\Users\Tugkan\Desktop\CoronaTracker\DataAccess\bin\Release\netcoreapp3.1\DataAccess.dll
+C:\Users\Tugkan\Desktop\CoronaTracker\DataAccess\bin\Release\netcoreapp3.1\DataAccess.pdb
+C:\Users\Tugkan\Desktop\CoronaTracker\DataAccess\bin\Release\netcoreapp3.1\Core.dll
+C:\Users\Tugkan\Desktop\CoronaTracker\DataAccess\bin\Release\netcoreapp3.1\Entities.dll
+C:\Users\Tugkan\Desktop\CoronaTracker\DataAccess\bin\Release\netcoreapp3.1\Entities.pdb
+C:\Users\Tugkan\Desktop\CoronaTracker\DataAccess\bin\Release\netcoreapp3.1\Core.pdb
+C:\Users\Tugkan\Desktop\CoronaTracker\DataAccess\obj\Release\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\Tugkan\Desktop\CoronaTracker\DataAccess\obj\Release\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Tugkan\Desktop\CoronaTracker\DataAccess\obj\Release\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\Tugkan\Desktop\CoronaTracker\DataAccess\obj\Release\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\Tugkan\Desktop\CoronaTracker\DataAccess\obj\Release\netcoreapp3.1\DataAccess.dll
+C:\Users\Tugkan\Desktop\CoronaTracker\DataAccess\obj\Release\netcoreapp3.1\DataAccess.pdb

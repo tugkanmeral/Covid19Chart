@@ -1,0 +1,32 @@
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\Core\obj\Debug\netcoreapp3.1\Core.pdb
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\TM\Development\Asp.net Core\OnePassForAll\ASP.NET Core REST API\Core\obj\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Tugkan\Development\AspNetCore\OnePassForAll\ASP.NET Core REST API\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\Tugkan\Development\AspNetCore\OnePassForAll\ASP.NET Core REST API\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Tugkan\Development\AspNetCore\OnePassForAll\ASP.NET Core REST API\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Tugkan\Development\AspNetCore\OnePassForAll\ASP.NET Core REST API\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+C:\Users\Tugkan\Development\AspNetCore\OnePassForAll\ASP.NET Core REST API\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\Tugkan\Development\AspNetCore\OnePassForAll\ASP.NET Core REST API\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\Tugkan\Development\AspNetCore\OnePassForAll\ASP.NET Core REST API\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\Tugkan\Development\AspNetCore\OnePassForAll\ASP.NET Core REST API\Core\obj\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Tugkan\Desktop\CoronaTracker\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\Tugkan\Desktop\CoronaTracker\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Tugkan\Desktop\CoronaTracker\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Tugkan\Desktop\CoronaTracker\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+C:\Users\Tugkan\Desktop\CoronaTracker\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\Tugkan\Desktop\CoronaTracker\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\Tugkan\Desktop\CoronaTracker\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\Tugkan\Desktop\CoronaTracker\Core\obj\Debug\netcoreapp3.1\Core.pdb

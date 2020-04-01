@@ -1,0 +1,15 @@
+C:\Users\Tugkan\Desktop\CoronaTracker\BusinessLogic\bin\Debug\netcoreapp3.0\BusinessLogic.deps.json
+C:\Users\Tugkan\Desktop\CoronaTracker\BusinessLogic\bin\Debug\netcoreapp3.0\BusinessLogic.dll
+C:\Users\Tugkan\Desktop\CoronaTracker\BusinessLogic\bin\Debug\netcoreapp3.0\BusinessLogic.pdb
+C:\Users\Tugkan\Desktop\CoronaTracker\BusinessLogic\bin\Debug\netcoreapp3.0\Core.dll
+C:\Users\Tugkan\Desktop\CoronaTracker\BusinessLogic\bin\Debug\netcoreapp3.0\DataAccess.dll
+C:\Users\Tugkan\Desktop\CoronaTracker\BusinessLogic\bin\Debug\netcoreapp3.0\Entities.dll
+C:\Users\Tugkan\Desktop\CoronaTracker\BusinessLogic\bin\Debug\netcoreapp3.0\DataAccess.pdb
+C:\Users\Tugkan\Desktop\CoronaTracker\BusinessLogic\bin\Debug\netcoreapp3.0\Entities.pdb
+C:\Users\Tugkan\Desktop\CoronaTracker\BusinessLogic\bin\Debug\netcoreapp3.0\Core.pdb
+C:\Users\Tugkan\Desktop\CoronaTracker\BusinessLogic\obj\Debug\netcoreapp3.0\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\Tugkan\Desktop\CoronaTracker\BusinessLogic\obj\Debug\netcoreapp3.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Tugkan\Desktop\CoronaTracker\BusinessLogic\obj\Debug\netcoreapp3.0\BusinessLogic.AssemblyInfo.cs
+C:\Users\Tugkan\Desktop\CoronaTracker\BusinessLogic\obj\Debug\netcoreapp3.0\BusinessLogic.csproj.CopyComplete
+C:\Users\Tugkan\Desktop\CoronaTracker\BusinessLogic\obj\Debug\netcoreapp3.0\BusinessLogic.dll
+C:\Users\Tugkan\Desktop\CoronaTracker\BusinessLogic\obj\Debug\netcoreapp3.0\BusinessLogic.pdb
