@@ -8,6 +8,10 @@ function plotDailyChart() {
 }
 
 function buildDailyChartData() {
+    chart_daily_case_data.push(0);
+    chart_daily_death_data.push(0);
+    chart_daily_recovered_data.push(0);
+
     for (var i = 1; i < raw_data.length; i++) {
         chart_daily_case_data.push(raw_data[i].case - raw_data[i-1].case);
         chart_daily_death_data.push(raw_data[i].death - raw_data[i-1].death);

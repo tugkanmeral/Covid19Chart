@@ -3,6 +3,7 @@ using DataAccess.Abstract;
 using DataAccess.Concrete.EntityFramework;
 using Entities.Concrete;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace BusinessLogic.Concrete
 {
@@ -12,7 +13,11 @@ namespace BusinessLogic.Concrete
 
         public List<DailyData> GetCountryData(int countryId)
         {
-            return _dailyDataDal.GetList(d => d.CountryId.Equals(countryId));
+            return _dailyDataDal.GetList(d => d.CountryId.Equals(countryId))
+                .OrderBy(d => d.Date.Year)
+                .ThenBy(d => d.Date.Month)
+                .ThenBy(d => d.Date.Day)
+                .ToList();
         }
 
         public DailyData GetFirstData(int countryId)
