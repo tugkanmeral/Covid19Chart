@@ -6,3 +6,12 @@ C:\Users\Tugkan\Desktop\CoronaTracker\Core\obj\Debug\netcoreapp3.0\Core.Assembly
 C:\Users\Tugkan\Desktop\CoronaTracker\Core\obj\Debug\netcoreapp3.0\Core.AssemblyInfo.cs
 C:\Users\Tugkan\Desktop\CoronaTracker\Core\obj\Debug\netcoreapp3.0\Core.dll
 C:\Users\Tugkan\Desktop\CoronaTracker\Core\obj\Debug\netcoreapp3.0\Core.pdb
+C:\Users\Tugkan\Development\.Net\_AspNetCore\CoronaTracker\Core\bin\Debug\netcoreapp3.0\Core.deps.json
+C:\Users\Tugkan\Development\.Net\_AspNetCore\CoronaTracker\Core\bin\Debug\netcoreapp3.0\Core.dll
+C:\Users\Tugkan\Development\.Net\_AspNetCore\CoronaTracker\Core\bin\Debug\netcoreapp3.0\Core.pdb
+C:\Users\Tugkan\Development\.Net\_AspNetCore\CoronaTracker\Core\obj\Debug\netcoreapp3.0\Core.csprojAssemblyReference.cache
+C:\Users\Tugkan\Development\.Net\_AspNetCore\CoronaTracker\Core\obj\Debug\netcoreapp3.0\Core.AssemblyInfoInputs.cache
+C:\Users\Tugkan\Development\.Net\_AspNetCore\CoronaTracker\Core\obj\Debug\netcoreapp3.0\Core.AssemblyInfo.cs
+C:\Users\Tugkan\Development\.Net\_AspNetCore\CoronaTracker\Core\obj\Debug\netcoreapp3.0\Core.dll
+C:\Users\Tugkan\Development\.Net\_AspNetCore\CoronaTracker\Core\obj\Debug\netcoreapp3.0\Core.pdb
+C:\Users\Tugkan\Development\.Net\_AspNetCore\CoronaTracker\Core\obj\Debug\netcoreapp3.0\Core.csproj.CoreCompileInputs.cache

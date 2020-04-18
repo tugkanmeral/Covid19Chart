@@ -11,6 +11,11 @@ namespace BusinessLogic.Concrete
     {
         IDailyDataDal _dailyDataDal = new EfDailyDataDal();
 
+        public int AddDailyData(DailyData dailyData)
+        {
+            return _dailyDataDal.Add(dailyData);
+        }
+
         public List<DailyData> GetCountryData(int countryId)
         {
             return _dailyDataDal.GetList(d => d.CountryId.Equals(countryId))

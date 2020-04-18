@@ -9,5 +9,6 @@ namespace BusinessLogic.Abstract
     {
         List<DailyData> GetCountryData(int countryId);
         DailyData GetFirstData(int countryId);
+        int AddDailyData(DailyData dailyData);
     }
 }

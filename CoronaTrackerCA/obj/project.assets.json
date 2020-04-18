@@ -5769,11 +5769,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tugkan\\Desktop\\CoronaTracker\\CoronaTrackerCA\\CoronaTrackerCA.csproj",
+      "projectUniqueName": "C:\\Users\\Tugkan\\Development\\.Net\\_AspNetCore\\CoronaTracker\\CoronaTrackerCA\\CoronaTrackerCA.csproj",
       "projectName": "CoronaTrackerCA",
-      "projectPath": "C:\\Users\\Tugkan\\Desktop\\CoronaTracker\\CoronaTrackerCA\\CoronaTrackerCA.csproj",
+      "projectPath": "C:\\Users\\Tugkan\\Development\\.Net\\_AspNetCore\\CoronaTracker\\CoronaTrackerCA\\CoronaTrackerCA.csproj",
       "packagesPath": "C:\\Users\\Tugkan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tugkan\\Desktop\\CoronaTracker\\CoronaTrackerCA\\obj\\",
+      "outputPath": "C:\\Users\\Tugkan\\Development\\.Net\\_AspNetCore\\CoronaTracker\\CoronaTrackerCA\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5792,8 +5792,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Tugkan\\Desktop\\CoronaTracker\\BusinessLogic\\BusinessLogic.csproj": {
-              "projectPath": "C:\\Users\\Tugkan\\Desktop\\CoronaTracker\\BusinessLogic\\BusinessLogic.csproj"
+            "C:\\Users\\Tugkan\\Development\\.Net\\_AspNetCore\\CoronaTracker\\BusinessLogic\\BusinessLogic.csproj": {
+              "projectPath": "C:\\Users\\Tugkan\\Development\\.Net\\_AspNetCore\\CoronaTracker\\BusinessLogic\\BusinessLogic.csproj"
             }
           }
         }

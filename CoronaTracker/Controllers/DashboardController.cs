@@ -27,12 +27,27 @@ namespace CoronaTracker.Controllers
             return View(model);
         }
 
-        [HttpGet]
-        public JsonResult GetRawDataByCountryId(int id)
+        public IActionResult AddData(DailyData dailyData)
         {
-            var rawData = _dataService.GetCountryData(id);
-            return Json(rawData);
+            try
+            {
+                var id = _dataService.AddDailyData(dailyData);
+                dailyData.Id = id;
+                return Ok(dailyData);
+            }
+            catch (Exception ex)
+            {
+                return Problem(ex.Message, null, null, null, null);
+            }
         }
 
+        //[HttpGet]
+        //public JsonResult GetRawDataByCountryId(int id)
+        //{
+        //    var rawData = _dataService.GetCountryData(id);
+        //    return Json(rawData);
+        //}
+
+        
     }
 }
