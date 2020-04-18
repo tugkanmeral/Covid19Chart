@@ -956,11 +956,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tugkan\\Desktop\\CoronaTracker\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\Tugkan\\Development\\.Net\\_AspNetCore\\CoronaTracker\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\Tugkan\\Desktop\\CoronaTracker\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\Tugkan\\Development\\.Net\\_AspNetCore\\CoronaTracker\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\Tugkan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tugkan\\Desktop\\CoronaTracker\\Core\\obj\\",
+      "outputPath": "C:\\Users\\Tugkan\\Development\\.Net\\_AspNetCore\\CoronaTracker\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1028,7 +1028,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

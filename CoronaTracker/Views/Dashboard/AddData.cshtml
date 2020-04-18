@@ -1,0 +1,41 @@
+﻿@model DashboardAddData
+@{
+    ViewData["Title"] = "AddData";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if (Model != null)
+{
+    @if (Model.Case != null)
+    {
+        <div class="alert alert-success" role="alert">
+            Bugünün datası başarı ile kayıt edildi!
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-danger" role="alert">
+            Data kayıt edilirken hata oluştu!
+        </div>
+    }
+}
+
+<form asp-controller="Dashboard" asp-action="AddData" method="post">
+    <div class="form-group">
+        <label for="caseInput">Toplam Vaka</label>
+        <input type="number" class="form-control" id="caseInput" asp-for="Case" placeholder="Vaka sayısı girin">
+    </div>
+    <div class="form-group">
+        <label for="deathInput">Toplam Ölüm</label>
+        <input type="number" class="form-control" id="deathInput" asp-for="Death" placeholder="Ölüm sayısını girin">
+    </div>
+    <div class="form-group">
+        <label for="recoveredInput">Toplam İyileşen</label>
+        <input type="number" class="form-control" id="recoveredInput" asp-for="Recovered" placeholder="İyileşen sayısı girin">
+    </div>
+    <div class="form-group">
+        <label for="testAmountInput">Günlük Test Sayısı</label>
+        <input type="number" class="form-control" id="testAmountInput" asp-for="TestAmount" placeholder="Günlük test sayısı girin">
+    </div>
+    <button type="submit" class="btn btn-primary">Kaydet</button>
+</form>

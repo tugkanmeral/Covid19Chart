@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tugkan\\Desktop\\CoronaTracker\\DataAccess\\DataAccess.csproj": {}
+    "C:\\Users\\Tugkan\\Development\\.Net\\_AspNetCore\\CoronaTracker\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tugkan\\Desktop\\CoronaTracker\\Core\\Core.csproj": {
+    "C:\\Users\\Tugkan\\Development\\.Net\\_AspNetCore\\CoronaTracker\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tugkan\\Desktop\\CoronaTracker\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\Tugkan\\Development\\.Net\\_AspNetCore\\CoronaTracker\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Tugkan\\Desktop\\CoronaTracker\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\Tugkan\\Development\\.Net\\_AspNetCore\\CoronaTracker\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Tugkan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tugkan\\Desktop\\CoronaTracker\\Core\\obj\\",
+        "outputPath": "C:\\Users\\Tugkan\\Development\\.Net\\_AspNetCore\\CoronaTracker\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -79,18 +79,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Tugkan\\Desktop\\CoronaTracker\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\Tugkan\\Development\\.Net\\_AspNetCore\\CoronaTracker\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tugkan\\Desktop\\CoronaTracker\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Tugkan\\Development\\.Net\\_AspNetCore\\CoronaTracker\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\Tugkan\\Desktop\\CoronaTracker\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\Tugkan\\Development\\.Net\\_AspNetCore\\CoronaTracker\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\Tugkan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tugkan\\Desktop\\CoronaTracker\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Tugkan\\Development\\.Net\\_AspNetCore\\CoronaTracker\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -109,8 +109,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\Tugkan\\Desktop\\CoronaTracker\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Tugkan\\Desktop\\CoronaTracker\\Entities\\Entities.csproj"
+              "C:\\Users\\Tugkan\\Development\\.Net\\_AspNetCore\\CoronaTracker\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Tugkan\\Development\\.Net\\_AspNetCore\\CoronaTracker\\Entities\\Entities.csproj"
               }
             }
           }
@@ -166,18 +166,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Tugkan\\Desktop\\CoronaTracker\\Entities\\Entities.csproj": {
+    "C:\\Users\\Tugkan\\Development\\.Net\\_AspNetCore\\CoronaTracker\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tugkan\\Desktop\\CoronaTracker\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Tugkan\\Development\\.Net\\_AspNetCore\\CoronaTracker\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Tugkan\\Desktop\\CoronaTracker\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\Tugkan\\Development\\.Net\\_AspNetCore\\CoronaTracker\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Tugkan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tugkan\\Desktop\\CoronaTracker\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\Tugkan\\Development\\.Net\\_AspNetCore\\CoronaTracker\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -196,8 +196,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\Tugkan\\Desktop\\CoronaTracker\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Tugkan\\Desktop\\CoronaTracker\\Core\\Core.csproj"
+              "C:\\Users\\Tugkan\\Development\\.Net\\_AspNetCore\\CoronaTracker\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Tugkan\\Development\\.Net\\_AspNetCore\\CoronaTracker\\Core\\Core.csproj"
               }
             }
           }
@@ -239,7 +239,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

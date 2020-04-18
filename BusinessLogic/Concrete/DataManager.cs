@@ -2,6 +2,7 @@
 using DataAccess.Abstract;
 using DataAccess.Concrete.EntityFramework;
 using Entities.Concrete;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -10,6 +11,12 @@ namespace BusinessLogic.Concrete
     public class DataManager : IDataService
     {
         IDailyDataDal _dailyDataDal = new EfDailyDataDal();
+
+        public int AddDailyData(DailyData dailyData)
+        {
+            dailyData.Date = DateTime.Today;
+            return _dailyDataDal.Add(dailyData);
+        }
 
         public List<DailyData> GetCountryData(int countryId)
         {

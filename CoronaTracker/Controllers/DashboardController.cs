@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using BusinessLogic.Abstract;
+﻿using BusinessLogic.Abstract;
 using CoronaTracker.Models;
 using Entities.Concrete;
 using Microsoft.AspNetCore.Mvc;
@@ -34,5 +30,29 @@ namespace CoronaTracker.Controllers
             return Json(rawData);
         }
 
+        [HttpPost]
+        public IActionResult AddData(DashboardAddData model)
+        {
+            var dailyData = new DailyData()
+            {
+                Case = model.Case,
+                CountryId = 1,
+                Death = model.Death,
+                Recovered = model.Recovered,
+                TestAmount = model.TestAmount
+            };
+
+            dailyData.Id = _dataService.AddDailyData(dailyData);
+
+            if (dailyData.Id > 0)
+                return View(model);
+            else
+                return View();
+        }
+
+        public IActionResult AddData()
+        {
+            return View();
+        }
     }
 }
